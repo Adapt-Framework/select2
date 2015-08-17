@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <label>Select2</label>
+        <name>select2</name>
+        <version>4.0.0</version>
+        <type>extension</type>
+        <namespace>/extensions/select2</namespace>
+        <description>The jQuery replacement for select boxes.</description>
+        <copyright>2012 - 2015 Kevin Brown, Igor Vaynberg</copyright>
+        <license>MIT</license>
+        <website>https://select2.github.io/</website>
+        <depends_on>
+            <bundle>forms</bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
