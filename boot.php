@@ -1,6 +1,6 @@
 <?php
 
-namespace extensions\users;
+namespace extensions\select2;
 use \frameworks\adapt as adapt;
 
 /* Prevent direct access */
