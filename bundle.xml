@@ -6,6 +6,8 @@
         <version>4.0.0</version>
         <type>extension</type>
         <namespace>\select2</namespace>
+        <version_status>release</version_status>
+        <availability>public</availability>
         <description>The jQuery replacement for select boxes.</description>
         <copyright>2012 - 2015 Kevin Brown, Igor Vaynberg</copyright>
         <license>MIT</license>
