@@ -3,7 +3,7 @@
     <bundle>
         <label>Select2</label>
         <name>select2</name>
-        <version>4.0.0</version>
+        <version>1.0.0</version>
         <type>extension</type>
         <namespace>\select2</namespace>
         <version_status>release</version_status>
